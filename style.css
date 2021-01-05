@@ -81,13 +81,13 @@ body {
 .file-upload-image {
   max-height: 200px;
   max-width: 200px;
-  margin: auto;
+  margin: 0 auto;
   padding: 20px;
 }
 
 .remove-image {
   width: 200px;
-  margin: 0;
+  margin: 0 auto;
   color: #fff;
   background: #cd4535;
   border: none;
